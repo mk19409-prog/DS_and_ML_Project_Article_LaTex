@@ -3,8 +3,7 @@ This repository is to keep LaTex file in the Github
 
 
 ## Project Overview
-This repository contains the LaTeX source file and compiled PDF for a research article created as part of the CSCI 7090 Assignment #1.  
-The article demonstrates the use of LaTeX and the IEEE conference template for preparing a structured research document.
+This repository contains the LaTeX source files and compiled PDF for a research article created as part of the CSCI 7090 Assignment #1. The article demonstrates the use of LaTeX and the IEEE conference template for preparing a structured research document.
 
 ## Files in the Repository
 - [`DS and ML Project Article.tex`](https://github.com/mk19409-prog/DS_and_ML_Project_Article_LaTex/blob/main/DS%20and%20ML%20Project%20Article.tex) - The main LaTeX source file of the article.
