@@ -7,10 +7,9 @@ This repository contains the LaTeX source file and compiled PDF for a research a
 The article demonstrates the use of LaTeX and the IEEE conference template for preparing a structured research document.
 
 ## Files in the Repository
-- `DS and ML Project Article.tex` — The main LaTeX source file of the article.  
-- `DS and ML Project Article.pdf` — Compiled PDF of the article.
+- [`DS and ML Project Article.tex`](https://github.com/mk19409-prog/DS_and_ML_Project_Article_LaTex/blob/main/DS%20and%20ML%20Project%20Article.tex) - The main LaTeX source file of the article.
 - [`DS and ML Project Article.pdf`](https://github.com/mk19409-prog/DS_and_ML_Project_Article_LaTex/blob/main/DS_and_ML_Project_Article.pdf) — Compiled PDF of the article.
-- `reference.bib` — Bibliography file containing references used in the article.  
+- [`reference.bib`](https://github.com/mk19409-prog/DS_and_ML_Project_Article_LaTex/blob/main/reference.bib) — Bibliography file containing references used in the article.   
 
 ## How to View the Article
 1. Open `DS and ML Project Article.pdf` to view the final article.  
